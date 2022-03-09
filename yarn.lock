@@ -3,9 +3,11 @@
 
 
 "@types/node@^10.3.2":
-  version "10.3.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.3.2.tgz#3840ec6c12556fdda6e0e6d036df853101d732a4"
+  "integrity" "sha512-9NfEUDp3tgRhmoxzTpTo+lq+KIVFxZahuRX0LHF/9IzKHaWuoWsIrrJ61zw5cnnlGINX8lqJzXYfQTOICS5Q+A=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-10.3.2.tgz"
+  "version" "10.3.2"
 
-typescript@^2.9.1:
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.1.tgz#fdb19d2c67a15d11995fd15640e373e09ab09961"
+"typescript@^2.9.1":
+  "integrity" "sha512-h6pM2f/GDchCFlldnriOhs1QHuwbnmj6/v7499eMHqPeW4V2G0elua2eIc2nu8v2NdHV0Gm+tzX83Hr6nUFjQA=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-2.9.1.tgz"
+  "version" "2.9.1"

@@ -13,7 +13,7 @@
         "sourceMap": true,
         "outDir": "build/",
         "declaration": true,
-        "moduleResolution": "node"
+        "moduleResolution": "node",
     },
     "filesGlob": [
         "./src/**/*.ts",
