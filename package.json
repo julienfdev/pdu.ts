@@ -1,5 +1,5 @@
 {
-  "name": "pdu.ts/julienfdev",
+  "name": "pdu.ts-julienfdev",
   "version": "1.1.4",
   "description": "Protocol Data Unit Implementation for TypeScript",
   "main": "./build/index.js",
